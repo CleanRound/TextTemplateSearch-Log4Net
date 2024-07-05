@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextTemplateSearch-Log4Net", "TextTemplateSearch-Log4Net\TextTemplateSearch-Log4Net.csproj", "{363AE7D4-0646-45F4-BF19-586A6AE59DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363AE7D4-0646-45F4-BF19-586A6AE59DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363AE7D4-0646-45F4-BF19-586A6AE59DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363AE7D4-0646-45F4-BF19-586A6AE59DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363AE7D4-0646-45F4-BF19-586A6AE59DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254154D5-44C7-45A5-A832-6981E3BD7A23}
+	EndGlobalSection
+EndGlobal
